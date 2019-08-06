@@ -1,2 +1,2 @@
 # zion-app
-Educational project using Quartz Framework with Simple Injector
+Template DDD project using Quartz Framework and Simple Injector
