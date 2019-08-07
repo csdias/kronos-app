@@ -1,4 +1,4 @@
-# zion-app
+# kronos-app
 Template DDD project using Quartz Framework and Simple Injector
 
 O repositório segue o GitFlow
