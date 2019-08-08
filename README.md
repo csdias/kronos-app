@@ -1,10 +1,12 @@
 # kronos-app
 Template DDD project using Quartz Framework and Simple Injector
 
-O repositório segue o GitFlow
+This repository uses the GitFlow pattern (for contributing, clone from develop pls)
 
-Desafios:
-1 - Adicionar capacidade de refazer a configuração de schedule dos jobs a cada 10 minutos
+Pending tasks:
 
-2 - Criar um painel em React ou Angular para visualizar a execução dos jobs
+1 - Apply the capability to rebuild all the schedule each minute.
 
+2 - Build a dashboard in React or Angular or both to visualize the each job execution.
+
+3 - Migrate to Asp.Net Core
