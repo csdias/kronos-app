@@ -7,6 +7,6 @@ Pending tasks:
 
 1 - Apply the capability to rebuild all the schedule each minute.
 
-2 - Build a dashboard in React or Angular or both to visualize the each job execution.
+2 - Build a dashboard in React or Angular or both to visualize each job execution.
 
 3 - Migrate to Asp.Net Core
